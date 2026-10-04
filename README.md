@@ -14,20 +14,30 @@ Bill of materials:
 
 
 Schematic:
+
 <img width="617" height="539" alt="Schematic Screenshot" src="https://github.com/user-attachments/assets/b49335d6-2488-469d-b9f3-366574f0f5f6" />
 
 
 PCB:
+
 <img width="638" height="507" alt="Screenshot 2026-10-04 223953" src="https://github.com/user-attachments/assets/2684b9be-b9b2-4432-918d-9a705a06f1fa" />
 
 
 3D View:
+
 front-
+
 <img width="662" height="507" alt="Screenshot 2026-10-04 224042" src="https://github.com/user-attachments/assets/4979dcb0-9fa7-420f-b4d8-4b5cb8058aad" />
 
 back-
+
 <img width="694" height="534" alt="Screenshot 2026-10-04 224106" src="https://github.com/user-attachments/assets/c1b0431b-0594-4b69-acea-87ea946e7b20" />
+
 
 
 My Slack Username:
 Safal027
+
+> 
+
+Thank You!
