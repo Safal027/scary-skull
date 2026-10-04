@@ -4,12 +4,12 @@ This is a simple electric circuit PCB setup with a skull image silkscreen design
 There are two LEDs as eyes and a DC Motor in the back. Here, photoresistor are connected to the two LEDs and a normal resistor with 470Ω resistance. Then the setup is connect to a battery cell with a switch.
 
 Bill of materials:
-2x 5mm LED (various colors)
-2x 47Ω resistors
-1x photoresistor
-1x mini motor disc
-1x 6mm push button
-1x CR2032 battery cell holders
+> 2x 5mm LED (various colors),
+> 2x 47Ω resistors,
+> 1x photoresistor,
+> 1x mini motor disc,
+> 1x 6mm push button,
+> 1x CR2032 battery cell holders
 
 
 
