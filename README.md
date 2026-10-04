@@ -1,7 +1,7 @@
 # scary-skull
 This is a simple electric circuit PCB setup with a skull image silkscreen designed using KiCad.
 
-There are two LEDs as eyes and a DC Motor in the back. Here, photoresistor are connected to the two LEDs and a normal resistor with 470Ω resistance. Then the setup is connect to a battery cell with a switch.
+There are two LEDs as eyes and a DC Motor in the back. Here, photoresistor are connected to the two LEDs and a normal resistor with 47Ω resistance. Then the setup is connect to a battery cell with a switch.
 
 Bill of materials:
 > 2x 5mm LED (various colors), <br>
