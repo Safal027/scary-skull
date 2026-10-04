@@ -46,7 +46,7 @@ Safal027
 Made by:
 Safal Adhikari
 
-Made as a part of <a href="http://solder.hackclub.com/"></a>!
+Made as a part of http://solder.hackclub.com
 
 <br>
 
